@@ -1,4 +1,4 @@
-
+# A lucky number is a number which is the smallest in its row but the largest in its column in a matrix 
 matrix = [[3,7,8],
           [9,11,13],
           [15,16,17]]
