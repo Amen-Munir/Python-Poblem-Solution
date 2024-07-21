@@ -1,3 +1,4 @@
+# automatng xlsx calculations of any number of products whose prices needs to be re-calculated 
 import openpyxl as xl
 from openpyxl.chart import BarChart, Reference
 wb=xl.load_workbook('demo1.xlsx')
