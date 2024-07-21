@@ -9,3 +9,5 @@ for sentence in sentences:
         max_word=new_length
     
 print(max_word)
+
+#the problem statement is that we havea list of senetnces given and we need to fint he sentence in the lists that has the maximum words 
